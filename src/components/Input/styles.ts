@@ -17,7 +17,6 @@ export const Container = styled.div<ContainerProps>`
   display: flex;
   align-items: center;
 
-
   & + div {
     margin-top: 8px;
   }
